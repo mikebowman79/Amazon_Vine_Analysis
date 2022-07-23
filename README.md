@@ -30,11 +30,11 @@ Percentage of 5-Star Total Votes: Vine Program vrs Unpaid reviews
 
 Summary:
 
-5-Star Analysis
+5-Star Analysis Review: 
 
 From the 5-Star analysis shown above analysis, it does not appear that a customer receiving a free product in exchange for a review shows a bias for giving the product a positive review. 
 
-1-Star Analysis: Review
+Additional 1-Star Analysis Review: 
 
 The percentage of 1-star reviews for Vine participants was only 4.255% while unpaid customers giving 1 star reviews was 16.71%. The conclusion from this data is that if the customer is given the product for free they are much less likely to give the product a negative review.
 
